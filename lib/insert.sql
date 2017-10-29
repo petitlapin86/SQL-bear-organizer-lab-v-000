@@ -13,4 +13,4 @@ VALUES ('Grinch', 3, 'M', 'orange', 'sweet', 0);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ('Wendy', 2, 'F', 'tawny', 'sweet', 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('null', 2, 'M', 'tawny', 'angry', 1);
+VALUES ('NULL', 2, 'M', 'tawny', 'angry', 1);
